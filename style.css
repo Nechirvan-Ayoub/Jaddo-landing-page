@@ -500,8 +500,9 @@ footer a{
         height: 130px;
     }
     .message{
+        position:absolute
         top: 0px;
-        right:0px;
+        right:20px;
         width: 48px;
         height: 48px;
     }
